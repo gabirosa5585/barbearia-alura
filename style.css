@@ -1,9 +1,6 @@
 p {
     text-align: center;
 }
-body {
-    background: #cccccc;
-}
 .banner {
     width: 100%;
 }
@@ -13,4 +10,7 @@ body {
 }
 .imagembeneficios{
     width: 50%;
+}
+.principal{
+    background-color: #cccccc;
 }
