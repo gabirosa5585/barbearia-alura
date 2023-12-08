@@ -15,3 +15,13 @@ p {
     background-color: #cccccc;
     padding: 30px;
 }
+.titulocentralizado{
+    text-align: center;
+}
+
+ul{
+    display: inline-block;
+    width: 20%;
+    margin-right: 15%;
+    vertical-align: top;
+}
